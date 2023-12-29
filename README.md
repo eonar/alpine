@@ -7,6 +7,9 @@
 # modprobe uhid btusb
 # rc-service bluetooth start
 # rc-update add bluetooth
+```
+# https://wiki.alpinelinux.org/wiki/Bluetooth
+```
 [bluetooth]# show controller_mac_address
 [bluetooth]# select controller_mac_address
 [bluetooth]# power on
